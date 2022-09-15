@@ -47,6 +47,7 @@ a {
 .card {
     color: white;
     text-align: left;
+    background-color: black;
 }
 
 .card-title {
